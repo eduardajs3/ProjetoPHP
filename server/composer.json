@@ -1,0 +1,23 @@
+{
+    "name": "app/app",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gabrielgodoi987",
+            "email": "gabrielgodoi987@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "ramsey/uuid": "^4.7",
+        "firebase/php-jwt": "^6.10",
+        "phpmailer/phpmailer": "^6.9",
+        "aws/aws-sdk-php": "^3.328",
+        "hidehalo/nanoid-php": "^2.0"
+    }
+}
