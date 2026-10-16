@@ -1,4 +1,4 @@
-# Fluxora
+# Sistema para nutricionista
 
 Sistema completo para nutricionistas e pacientes, com gerenciamento de agenda, pacientes, reuniões, prontuários, comunicação e videoconferência.
 
